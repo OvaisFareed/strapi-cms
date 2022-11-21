@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_benefit_benefits",
+  "info": {
+    "displayName": "Benefit",
+    "icon": "piggy-bank"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "richtext"
+    },
+    "icon": {
+      "type": "string"
+    }
+  }
+}
