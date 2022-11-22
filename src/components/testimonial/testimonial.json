@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_testimonial_testimonials",
+  "info": {
+    "displayName": "Testimonial",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "message": {
+      "type": "richtext"
+    },
+    "metadata": {
+      "type": "json"
+    }
+  }
+}

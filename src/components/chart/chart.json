@@ -1,19 +1,21 @@
 {
-  "collectionName": "components_benefit_benefits",
+  "collectionName": "components_chart_charts",
   "info": {
-    "displayName": "Benefit",
-    "icon": "piggy-bank"
+    "displayName": "Chart"
   },
   "options": {},
   "attributes": {
     "title": {
       "type": "string"
     },
+    "subtitle": {
+      "type": "string"
+    },
     "description": {
       "type": "richtext"
     },
-    "icon": {
-      "type": "string"
+    "data": {
+      "type": "json"
     }
   }
 }
