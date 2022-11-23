@@ -49,6 +49,11 @@
       "type": "component",
       "repeatable": true,
       "component": "testimonial.testimonial"
+    },
+    "logo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "card.card"
     }
   }
 }
